@@ -16,13 +16,14 @@ corr_matrix = data_numeric.corr()
 
 # print(data.info())
 # print(data.shape)
-print(data.describe())
+# print(data.describe())
 
+print(data.isnull().sum())
 
-plt.rc('font', family='AppleGothic')
-plt.rcParams['axes.unicode_minus'] = False
-plt.figure(figsize=(10, 8))
-sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', linewidths=0.5, vmin=-1, vmax=1)
-plt.show()
+# plt.rc('font', family='AppleGothic')
+# plt.rcParams['axes.unicode_minus'] = False
+# plt.figure(figsize=(10, 8))
+# sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', linewidths=0.5, vmin=-1, vmax=1)
+# plt.show()
 
 # print(data.corr(numeric_only=True).style.background_gradient())
