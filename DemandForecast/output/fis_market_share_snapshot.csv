@@ -1,0 +1,16 @@
+segment_type,rank,name,sales_million_krw,share_pct
+manufacturer,1,CJ,99262,32.86
+manufacturer,2,풀무원,98303,32.54
+manufacturer,3,Others,43629,14.44
+manufacturer,4,오뚜기,25352,8.39
+manufacturer,5,칠갑농산,18896,6.25
+brand,1,풀무원,94232,31.19
+brand,2,프레시안,79940,26.46
+brand,3,Others,45452,15.04
+brand,4,면사랑,25033,8.29
+brand,5,스토아브랜드,16672,5.52
+subcategory,1,냉면,80657,26.70
+subcategory,2,우동,68498,22.67
+subcategory,3,칼국수,55969,18.53
+subcategory,4,기타,25540,8.45
+subcategory,5,파스타,17441,5.77

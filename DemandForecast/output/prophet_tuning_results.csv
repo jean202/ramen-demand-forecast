@@ -1,0 +1,6 @@
+﻿changepoint_prior_scale,seasonality_prior_scale,seasonality_mode,RMSE,MAE,MAPE(%)
+0.5,0.1,additive,1176.02,899.11,11.27
+0.3,0.1,multiplicative,1340.42,1006.72,12.62
+0.3,0.1,additive,1438.83,1090.88,13.69
+0.05,0.1,additive,1541.1,1224.74,15.43
+0.1,0.1,additive,1551.29,1237.71,15.6
