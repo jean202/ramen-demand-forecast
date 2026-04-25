@@ -4,6 +4,7 @@
 [![Prophet](https://img.shields.io/badge/Prophet-1.3-0062cc)](https://facebook.github.io/prophet/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![pandas](https://img.shields.io/badge/pandas-2.2-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![CI](https://github.com/jean202/ramen-demand-forecast/actions/workflows/ci.yml/badge.svg)](https://github.com/jean202/ramen-demand-forecast/actions/workflows/ci.yml)
 
 KT AIVLE 리테일 데이터 페스타의 3개년 거래 데이터를 MongoDB로 마이그레이션하고,  
 Prophet 하이퍼파라미터 튜닝으로 라면류 월별 수요를 예측하는 엔드-투-엔드 파이프라인.
