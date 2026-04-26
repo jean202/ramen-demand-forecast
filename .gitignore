@@ -21,3 +21,6 @@ data2.xlsx
 
 # 환경변수
 .env
+
+# Streamlit 시크릿
+.streamlit/secrets.toml
